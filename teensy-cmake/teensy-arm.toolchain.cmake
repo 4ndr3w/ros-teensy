@@ -136,6 +136,7 @@ set(TEENSY_CXX_CORE_FILES
     ${TEENSY_ROOT}/HardwareSerial1.cpp 
     ${TEENSY_ROOT}/HardwareSerial2.cpp
     ${TEENSY_ROOT}/HardwareSerial3.cpp
+    ${TEENSY_ROOT}/EventResponder.cpp
     ${TEENSY_ROOT}/WMath.cpp
     ${TEENSY_ROOT}/Print.cpp
     
